@@ -122,7 +122,7 @@ body{
         <br />
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
     </form>
-    <h3>Developer :SEERAT QUEEN</h3>
+    <h3>Developer :RULEX SEERAT BRAND</h3>
     
 </div
     
