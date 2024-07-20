@@ -38,7 +38,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.ibb.co/JtNcVyb/IMG-20240710-WA0051-1.jpg');
+    background-image: url('https://i.ibb.co/SxsZHDG/IMG-20240706-143958.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
